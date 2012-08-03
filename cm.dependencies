@@ -1,6 +1,7 @@
 [
   {
     "repository": "android_device_samsung_p5-common",
-    "target_path": "device/samsung/p5-common"
+    "target_path": "device/samsung/p5-common",
+    "branch": "jb"
   }
 ]
