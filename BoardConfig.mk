@@ -24,5 +24,5 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 TARGET_OTA_ASSERT_DEVICE := p5wifi,p5,GT-P7300,GT-P7310
 
-TARGET_KERNEL_CONFIG := kalltkaffe_samsung_p5wifi-ics_defconfig
+TARGET_KERNEL_CONFIG := samsung_p5wifi-XXLPJ_defconfig
 
