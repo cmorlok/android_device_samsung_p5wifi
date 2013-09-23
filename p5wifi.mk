@@ -14,9 +14,6 @@
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 
-# The gps config appropriate for this device
-$(call inherit-product, device/common/gps/gps_us_supl.mk)
-
 # LPM (charging animation)
 # this has to be defined before calling p4-common.mk
 PRODUCT_COPY_FILES += \
